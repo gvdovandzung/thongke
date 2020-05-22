@@ -1,0 +1,12 @@
+Package: thongke
+Type: Package
+Title: What the package does (short line)
+Version: 4.0.0
+Date: 2020-05-22
+Author: Do Van Dzung
+Maintainer: Who to complain to <dovandzung@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+LazyLoad: yes
+RoxygenNote: 7.1.0
+Encoding: UTF-8
